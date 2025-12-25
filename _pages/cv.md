@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 ## Research Overview
 I am an undergraduate researcher at **Kyung Hee University** interested in **planning and decision-making for long-horizon problems**, with a particular focus on  
@@ -24,7 +24,7 @@ Double Major: **Software Convergence (Data Analysis Track)** & **Chinese Languag
 - Period: **Feb 2022 – Jul 2026 (expected)**
 
 **Selected Coursework**  
-Machine Learning, Deep Learning, Reinforcement Learning, Probability & Random Variables, Linear Algebra, Calculus, Differential Equations,  
+Machine Learning, Deep Learning, Reinforcement Learning, Probability & Random Variables, Linear Algebra, Differential Equations, Calculus
 Data Structures, Algorithms, OOP, Computer Networks, Microservice Programming  
 Additional: Robot Programming, 3D Data Processing
 
@@ -103,7 +103,7 @@ Github: https://github.com/Revivekirin/BlackWire
 ### Systems & Tools
 - Python, Docker, Linux, Git/GitHub  
 
----
+<!-- ---
 
 ## Publications / Technical Reports
 > Some outputs are currently in the form of **technical reports or research code** rather than peer-reviewed publications.
@@ -113,4 +113,4 @@ Github: https://github.com/Revivekirin/BlackWire
   Report: https://github.com/Revivekirin/qc-flow-priority-sampling/blob/main/assets/Report.pdf
 
 - **PARS Reproduction and Analysis** — Research Code  
-  GitHub: https://github.com/Revivekirin/Revivekirin/tree/main/pars
+  GitHub: https://github.com/Revivekirin/Revivekirin/tree/main/pars -->
