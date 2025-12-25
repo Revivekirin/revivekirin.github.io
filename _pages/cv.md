@@ -116,7 +116,6 @@ Additional: Robot Programming, 3D Data Processing
 - Reinforcement Learning (offline-to-online, long-horizon)  
 - Diffusion / transformer-based models  
 - Representation learning, clustering, similarity analysis  
-- Experimental analysis, ablation, reproducible research code
 
 ### Systems & Tools
 - Python, Docker, Linux, Git/GitHub
