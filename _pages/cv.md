@@ -53,7 +53,8 @@ Additional: Robot Programming, 3D Data Processing
 
 <i class="fab fa-github"></i>
 [qc-flow-priority-sampling](https://github.com/Revivekirin/qc-flow-priority-sampling)
-[qc-flow-priority-sampling report] (https://github.com/Revivekirin/qc-flow-priority-sampling/blob/main/assets/Report.pdf)
+
+[qc-flow-priority-sampling report](https://github.com/Revivekirin/qc-flow-priority-sampling/blob/main/assets/Report.pdf)
 
 - Implemented and analyzed **trajectory-level sampling strategies** for improving sample efficiency in offline-to-online RL.  
 - Investigated failure modes and performance sensitivity under **priority definitions** and **horizon lengths**.  
