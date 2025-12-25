@@ -10,8 +10,8 @@ redirect_from:
 ## Research Overview
 I am an undergraduate researcher at **Kyung Hee University** interested in **planning and decision-making for long-horizon problems**, with a particular focus on **offline-to-online reinforcement learning**, **world models**, and **diffusion/transformer-based policies**.
 
-I am particularly interested in how learned representations and sampling strategies affect **search, exploration, and robustness under distribution shift**.  
-My background includes building end-to-end learning systems—from data collection and representation learning to evaluation and failure-mode analysis—which motivates my current focus on **scalable and reliable learning frameworks for complex environments**.
+I am particularly interested in how **representation learning and sampling strategies** affect exploration, stability, and robustness under **distribution shift**.  
+My background includes building **end-to-end learning systems**—from data collection and representation learning to evaluation and failure-mode analysis—which motivates my current focus on **scalable and reliable learning frameworks for complex environments**.
 
 ---
 
@@ -33,7 +33,7 @@ Additional: Robot Programming, 3D Data Processing
 **MLVC Lab (Kyung Hee University)** — Undergraduate Researcher  
 *Dec 2024 – Present*  
 - Conducted research on **efficient generative modeling**, including **diffusion / transformer quantization** (e.g., 4-bit diffusion, diffusion-transformer quantization).  
-- Gained hands-on experience with modern generative learning pipelines and experimental evaluation practices.  
+- Gained hands-on experience with modern generative learning pipelines and **experimental evaluation practices**.  
 - Currently expanding research interest toward **planning with world models**, **diffusion policy**, and **offline-to-online RL**.
 
 ---
@@ -51,51 +51,50 @@ Additional: Robot Programming, 3D Data Processing
 ### Trajectory-level Priority Sampling for Offline-to-Online RL  
 **Technical Report & Research Code**
 
-- <i class="fab fa-github"></i> **Code:**  
-  [qc-flow-priority-sampling](https://github.com/Revivekirin/qc-flow-priority-sampling)
-- <i class="fas fa-file-alt"></i> **Description:**  
-  Technical report (not peer-reviewed)
+<i class="fab fa-github"></i>
+[qc-flow-priority-sampling](https://github.com/Revivekirin/qc-flow-priority-sampling)
+[qc-flow-priority-sampling report] (https://github.com/Revivekirin/qc-flow-priority-sampling/blob/main/assets/Report.pdf)
 
 - Implemented and analyzed **trajectory-level sampling strategies** for improving sample efficiency in offline-to-online RL.  
-- Studied sensitivity to **priority definitions, horizon length, and return aggregation**, with detailed ablation analysis.  
-- Used as a reference project for understanding stability and failure modes in long-horizon offline-to-online settings.
+- Investigated failure modes and performance sensitivity under **priority definitions** and **horizon lengths**.  
+- Outcome currently documented as a **technical report** (not peer-reviewed).
 
 ---
 
 ### PARS: Penalizing Infeasible Actions in Offline RL  
 **Reproduction & Failure-mode Analysis**
 
-- <i class="fab fa-github"></i> **Code:**  
-  [PARS reproduction repository](https://github.com/Revivekirin/Revivekirin/tree/main/pars)
+<i class="fab fa-github"></i>
+[PARS reproduction code](https://github.com/Revivekirin/Revivekirin/tree/main/pars)
 
-- Reproduced core components of **PARS** and verified baseline behavior.  
-- Analyzed degradation cases under **strong policy priors** and **distribution shift**, focusing on Q-value explosion and instability.  
-- Used as a theoretical and experimental reference for understanding limitations of value-side regularization when transitioning from offline to online learning.
+- Implemented core components of **PARS** and reproduced baseline results.  
+- Analyzed degradation cases under **strong policy priors** and **distribution shift**, focusing on Q-value instability.  
+- Used as a theoretical and experimental reference for understanding **offline-to-online transitions**.
 
 ---
 
 ## Applied ML & Systems Experience
 
 ### Dark Web Threat Intelligence Pipeline  
-**Kyung Hee University** | *Mar 2025 – Jun 2025*  
+**Kyung Hee University** | *Mar 2025 – Jun 2025*
 
-- <i class="fab fa-github"></i> **Code:**  
-  [BlackWire](https://github.com/Revivekirin/BlackWire)
+<i class="fab fa-github"></i>
+[BlackWire](https://github.com/Revivekirin/BlackWire)
 
 - Built automated data pipelines using **Playwright + Docker + Tor proxy** for large-scale collection.  
 - Designed **embedding-based representations** (BERT / DarkBERT-style) and clustering for pattern discovery.  
-- This experience strengthened my ability to design **data → representation → decision** pipelines, later applied to RL research workflows.
+- Strengthened my ability to design **data → representation → decision** pipelines, later applied to RL research workflows.
 
 ---
 
 ### Security News → MITRE ATT&CK Matching & Visualization  
 **Kyung Hee University** | *Mar 2025 – Jun 2025*
 
-- <i class="fab fa-github"></i> **Code:**  
-  [BlackWire](https://github.com/Revivekirin/BlackWire)
+<i class="fab fa-github"></i>
+[BlackWire (analysis & dashboard)](https://github.com/Revivekirin/BlackWire)
 
 - Implemented embedding-based matching between unstructured text and structured threat taxonomies.  
-- Built visualization dashboards for exploratory analysis and comparison.
+- Built visualization dashboards for exploratory analysis.
 
 ---
 
